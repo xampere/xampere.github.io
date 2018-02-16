@@ -1,0 +1,49 @@
+.contactcontainer {
+	margin: 0 !important;
+	padding:0 !important;
+	background-color: #212121;
+	color: #fff;
+}
+body {
+	background-color: #212121;
+}
+
+.chead {
+	color: #0892d0;
+	text-align: center;
+	letter-spacing: 2px;
+	font-size: 3rem;
+	margin-top: 3vw;
+	font-family: 'Dosis', 'Roboto', sans-serif;
+}
+
+.ctag {
+	color: #a3a3a3;
+	text-align: center;
+	width: 80vw;
+	margin: 0 auto;
+	font-size: 1.5rem;
+	letter-spacing: 1px;
+	font-family: 'Dosis', 'Roboto', sans-serif;
+}
+
+.ccol > h1 {
+	font-family: 'Dosis', 'Roboto', sans-serif;
+	font-size: 1.5rem;
+	text-align: center;
+}
+.contact {
+	padding:1vw 3vw 4vw 3vw;
+	margin:4vw 0;
+}
+.ccol > p {
+	text-align: center;
+	font-family: 'Dosis', 'Roboto', sans-serif;
+	letter-spacing: 1px;
+	color: #a3a3a3;	
+}
+.cfooter {
+	position: absolute; !important;
+	bottom: 0 !important;
+	width: 100%;
+}
