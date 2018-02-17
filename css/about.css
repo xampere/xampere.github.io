@@ -1,97 +1,145 @@
-.aboutcontainer {
-	background-color: #212121;
-	padding-bottom: 2vw;
-}
-.aheading {
-	color: #a3a3a3;
-	font-size: 3rem;
-	font-family: 'Dosis', 'Roboto',sans-serif;
-	text-align: center;
-	letter-spacing: 2px;
-}
-.apara {
-	font-size: 1rem;
-	width: 80%;
-	text-align: center;
-	color: #a3a3a3;
-	margin: 1vw 5vw;
-	letter-spacing: 1px;
+/*text selection color*/
+
+::-moz-selection {
+    color: #fff;
+    background: #0892d0;
 }
 
+::-webkit-selection {
+    color: #fff;
+    background: #0892d0;
+}
+
+::selection {
+    color: #fff;
+    background: #0892d0;
+}
+.aboutcontainer {
+    background-color: #212121;
+    padding-bottom: 2vw;
+}
+
+.aheading {
+    color: #a3a3a3;
+    font-size: 3rem;
+    font-family: 'Dosis', 'Roboto', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.apara {
+    font-size: 1rem;
+    width: 80%;
+    text-align: center;
+    color: #a3a3a3;
+    margin: 1vw 5vw;
+    letter-spacing: 1px;
+}
+
+
 /*MISSION SECTION*/
+
 .missionbox {
-	background-color: #212121;
-	padding: 2vw 5vw;
-	margin-right: 0 !important;
+    background-color: #212121;
+    padding: 2vw 5vw;
+    margin-right: 0 !important;
 }
+
 .mimage {
-	padding-left:20vw;
-	padding-top: 5vw;
+    padding-left: 20vw;
+    padding-top: 5vw;
 }
+
 .mimg {
-	width: 50%;
-	position: relative;
+    width: 50%;
+    position: relative;
 }
+
 .mtext {
-	color: #fff;
-	padding-top: 10vw;
-	padding-left: 10vw;
+    color: #fff;
+    padding-top: 10vw;
+    padding-left: 10vw;
 }
-.mtext > h5{
-	color: #7a7a7a;
-	letter-spacing: 5px;
-	text-transform: uppercase;
+
+.mtext>h1 {
+    letter-spacing: 10px;
+    color: #0892d0;
 }
-.mtext > h1 {
-	letter-spacing: 10px;
-	color: #0892d0;
+
+.mtext>p {
+    color: #a3a3a3;
+    width: 30vw;
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
 }
-.mtext > p {
-	color: #a3a3a3;
-	width: 30vw;
-	letter-spacing: 1px;
-	font-family: 'Roboto', sans-serif;
-}
+
+
 /*MISSION SECTION ENDS*/
 
 .team {
-	background-color: #212121;
-	color: #fff;
-	padding-top: 1vw;
-}
-.thead {
-	text-align: center;
-	font-family: 'Dosis','Roboto',sans-serif;
-}
-.tpara {
-	text-align: center;
-	color: #a3a3a3;
-	font-family: 'Roboto',sans-serif;
-	letter-spacing: 1px;
-}
-.tpics {
-	padding: 2vw 4vw;
-	margin: 0 !important;
-}
-.timg {
-	width: 70%;
-	border-radius: 100%;
-	display: block;
-	margin: 0 auto;
-}
-.imgtext {
-	text-align: center;
-	font-family: 'Roboto', sans-serif;
-	color: #0892d0;
-	letter-spacing: 2px;
-	font-size: 1rem;
-	margin-top: 1vw;
-}
-.imgtag {
-	text-align:center;
-	font-family: 'Dosis', 'Roboto', sans-serif;
-	color: #a3a3a3;
-	letter-spacing: 1px;
-	font-size: 1rem;
+    background-color: #212121;
+    color: #fff;
+    padding-top: 1vw;
 }
 
+.thead {
+    text-align: center;
+    font-family: 'Dosis', 'Roboto', sans-serif;
+}
+
+.tpara {
+    text-align: center;
+    color: #a3a3a3;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+
+.tpics {
+    padding: 2vw 4vw;
+    margin: 0 !important;
+}
+
+.timg {
+    width: 70%;
+    border-radius: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.imgtext {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #0892d0;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    margin-top: 1vw;
+}
+
+.imgtag {
+    text-align: center;
+    font-family: 'Dosis', 'Roboto', sans-serif;
+    color: #a3a3a3;
+    letter-spacing: 1px;
+    font-size: 1rem;
+}
+
+@media (max-width:860px){
+	.mtext > h1 {
+		font-size: 1.8rem;
+	}
+	.mtext > p {
+		font-size: 0.8rem
+	}
+}
+@media (max-width:576px){
+	.mtext {
+		text-align: center;
+	}
+	.mtext > p {
+		width: 100%;
+	}
+	.mimage {
+		padding: 10vw;
+		text-align: center;
+	}
+}
