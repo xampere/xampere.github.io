@@ -1,3 +1,4 @@
 The Temporary Website for the Brand
 
-https://www.xampere.com
+http://www.xampere.com
+Site Owner - Avinash Singh
