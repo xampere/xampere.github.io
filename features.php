@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Features - Xampere Flatcharge</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dosis" rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="css/hover.css"/>
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" type="text/css" href="css/features.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+
+
+</head>
+
+<body>
+    <div class="container-fluid maincontainer">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <a class="navbar-brand" href="index.php"><img src="images/raw-logo.png"></a>
+
+            <!-- Toggler/collapsibe Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+				    <span class="navbar-toggler-icon"></span>
+				  </button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav right">
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="faq.php">FAQs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="about.php">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="contact.php">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Nav and Wall Ends here -->
+        <div class="container">
+            <h1 class="main-title">Features</h1>
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="timeline" />
+                    </figure>
+                    <div class="dir-l radius-3">
+                        <h1>Fast Charging</h1>
+                        <p> Flatcharge is provided with Fast Charging feature. So it takes less time to charge as compared to the traditional inverter-battery system.</p>
+                    </div>
+                    <!-- <div class="date-r">13/10/2013 – 25/09/2014</div> -->
+                </li>
+
+                <li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="timeline" />
+                    </figure>
+                    <div class="dir-r radius-3">
+                        <h1>Longer Battery Life</h1>
+                        <p>With the sophisticated mechanism and the technique used the Flatcharge lasts longer. The flatcharge has a life between 8-10 years.</p>
+                    </div>
+                    <!-- <div class="date-l">06/09/2013 – Present</div> -->
+                </li>
+
+                <li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="course" />
+                    </figure>
+                    <div class="dir-l radius-3">
+                        <h1>Light Weight and Slim</h1>
+                        <p> Who want to lift those heavy batteries? Yes, the Flatcharge is very light. The flatcharge's weight lies in the range of the weight of your inverter. It is compact in size which makes it easily portable.</p>
+                    </div>
+                    <!-- <div class="date-r">09/11/2009 – 30/06/2012</div> -->
+                </li>
+				
+				<li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="course" />
+                    </figure>
+                    <div class="dir-r radius-3">
+                        <h1>Integrated Inverter Technology</h1>
+                        <p> With the Integrated Inverter mechanism, you do no need to attach a seperate inverter with it, the Flatcharge already has one.</p>
+                    </div>
+                    <!-- <div class="date-r">09/11/2009 – 30/06/2012</div> -->
+                </li>
+				<li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="course" />
+                    </figure>
+                    <div class="dir-l radius-3">
+                        <h1>Smart Connectivity</h1>
+                        <p> You can monitor the status of your Flatcharge on your phone easily while sitting on a couch. Flatcharge can be connected to the Android<sup>&reg;</sup> or iPhone<sup>&reg;</sup> to monitor different features.</p>
+                    </div>
+                    <!-- <div class="date-r">09/11/2009 – 30/06/2012</div> -->
+                </li>
+				<li class="timeline-item">
+                    <figure class="timeline-icon">
+                        <img src="images/star.png" alt="course" />
+                    </figure>
+                    <div class="dir-r radius-3">
+                        <h1>Solar Compatible</h1>
+                        <p> By attaching a simple solar module you can connect the flatcharge to your solar panels too and you can even go totally off the grid.</p>
+                    </div>
+                    <!-- <div class="date-r">09/11/2009 – 30/06/2012</div> -->
+                </li>
+            </ul>
+			<div class="row frow">
+				<div class="col-sm-3">
+					<h3>Fast Charging</h3>
+					<p>Flatcharge is provided with Fast Charging feature. So it takes less time to charge as compared to the traditional inverter-battery system.</p>
+				</div>
+				<div class="col-sm-3">
+					<h3>Longer Battery Life</h3>
+					<p>With the sophisticated mechanism and the technique used the Flatcharge lasts longer. The flatcharge has a life between 8-10 years.</p>
+				</div>
+				<div class="col-sm-3">
+					<h3>Lightweight and Slim</h3>
+					<p>Who want to lift those heavy batteries? Yes, the Flatcharge is very light. The flatcharge's weight lies in the range of the weight of your inverter. It is compact in size which makes it easily portable.</p>
+				</div>
+				<div class="col-sm-3">
+					<h3>Integrated Inverter Technology</h3>
+					<p>With the Integrated Inverter mechanism, you do no need to attach a seperate inverter with it, the Flatcharge already has one.</p>
+				</div>
+				<div class="col-sm-3">
+					<h3>Smart Connectivity</h3>
+					<p>You can monitor the status of your Flatcharge on your phone easily while sitting on a couch. Flatcharge can be connected to the Android<sup>&reg;</sup> or iPhone<sup>&reg;</sup> to monitor different features.</p>
+				</div>
+				<div class="col-sm-3">
+					<h3>Solar Compatible</h3>
+					<p>By attaching a simple solar module you can connect the flatcharge to your solar panels too and you can even go totally off the grid.</p>
+				</div>
+			
+			</div>
+        </div>
+
+        <!-- footer starts -->
+        <div class="footer">
+            <ul class="pagelinks">
+                <li><a href="about.php">About</a></li>
+                <li><a href="faq.php">FAQs</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="contact.php">Contact</a></li>
+            </ul>
+            <div class="copyright">
+                <p>&copy; 2017-2018 XAMPERE</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

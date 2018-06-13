@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frequently Asked Questions - XAMPERE</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/navbar.css">
+    <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" type="text/css" href="css/hover.css"/>
+    <link rel="stylesheet" type="text/css" href="css/faq.css">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+
+<body>
+    <div class="container-fluid faqcontainer">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <a class="navbar-brand" href="index.php"><img src="images/raw-logo.png"></a>
+
+            <!-- Toggler/collapsibe Button -->
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+					  <span class="navbar-toggler-icon"></span>
+					</button>
+
+            <!-- Links -->
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav right">
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="features.php">Features</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">FAQs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="about.php">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link hvr-sweep-to-right" href="contact.php">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="faqbox">
+            <h1>Frequently Asked Questions</h1>
+            <h4>We thought you might be having some doubts</h4>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.1</span>How do I install FlatCharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Installing flatcharge is as easy as blowing a whistle. You just need to have inverter lines in your home or workplace and then all you need to do is call a tehnician to drill holes in the wall to hang the FlatCharge and then plug it and it's ready.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.2</span>How do I start using Flatcharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">After you have successfully completed the installation of Flatcharge all you need to do is power it on and setup your smartphone application. You see how easy it is.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.3</span>How do I setup the Flatcharge with my smartphone?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">You have to download the smartphone application from Google Playstore or Apple Appstore and then just follow the instructions after installing the app.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.4</span>What is Flatcharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Flatcharge is a smart power backup system for your house and office which is very advanced and cost effective.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.5</span>Do we get any warranty for Flatcharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Yes, you get 8 years of warranty with the Flatcharge.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.6</span>How the Flatcharge is better than the other power backup systems?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Flatcharge is very different than the traditional batteries and inverters. The traditional battery have less energy density and short lifespan whereas the Flatcharge works for atleast 8 years with very advance features.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.7</span>What is EPD in FlatCharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">EPD stands for Emergency POwer Delivery. When you run out of juice in Flatcharge and you are in utter need of power delivery then you can enable the Emergency Power Delivery option on your smartphone to get the limited power in the hour of need. Notice that you can only use this feature for 5 times in a month.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.8</span>Do I need to connect any inverter with the Flatcharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">No, Flatcharge comes with a inbuilt advance inverter which is power efficient, silent and small in size which is perfectly compatible with the Flatcharge.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.9</span>What features does the smartphone app has?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">The smartphone app had many features like <br>Estimated Power Usage <br>Estimated Time to Discharge<br>Estimated Time to Charge<br>Battery Health, etc</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.10</span>Do I need wifi to connect my smartphone to Flatcharge?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">No, the Flatcharge connect to your phone using Bluetooth.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.11</span>What platforms are compatible with Flatcharge Smartphone app?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">The smartphone app is available for both the iOS and the Android OS.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.12</span>What happens when Flatcharge is not supplying power?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">When Flatcharge is not supplying power then either it must be discharged or the wiring is not done properly.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.13</span>Is Flatcharge compatible with Solar Panels, if yes how?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Yes, the Flatcharge is totally compatible with the Solar Panels. You need to buy the Solar Panels on your own and the smart solar module which enables the Flatcharge to properly sync with the Solar Panels.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.14</span>Can the Flatcharge provides power supply and charge at the same time?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">Yes, Flatcharge can charge from Grid or Solar Energy and at the same time provide power supply to you.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.15</span>How does the Flatcharge let me have control of use of Energy?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">You have all the control through the smartphone app. You can anytime turn the charging, power delivery on or off with just a touch on your phone.</span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.16</span>Can I purchase only the battery of Flatcharge without inverter and connect it to my previously owned inverter?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">No, the Flatcharge is different than the other traditional inverter and batteries and thus it needs different inverter which is specially designed to be used with it. </span></div>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq_question"><span class="question">Q.17</span>What kind of batteries for energy storage does the Flatcharge uses? Are they safe?</div>
+                <div class="faq_answer_container">
+                    <div class="faq_answer"><span class="answer">The Flatcharge uses the Lithium -ion batteries inside it which are properly attached, insulated and have a cooling system inside. There is very short chance of the short circuit inside it which is about one in a million.</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- footer starts -->
+        <div class="footer">
+            <ul class="pagelinks">
+                <li><a href="about.php">About</a></li>
+                <li><a href="#">FAQs</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="contact.php">Contact</a></li>
+            </ul>
+            <div class="copyright">
+                <p>&copy; 2017-2018 XAMPERE</p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
