@@ -1,4 +1,6 @@
-The Temporary Website for the Brand
+XAMPERE Technologies
 
-http://www.xampere.com
-Site Owner - Avinash Singh
+https://www.xampere.com
+
+Facebook - https://www.facebook.com/xampertechnologies
+LinkedIn - https://www.linkedin.com/company/xampere
